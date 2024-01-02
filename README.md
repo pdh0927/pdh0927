@@ -2,4 +2,4 @@
 
 
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pdh0927)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pdh0927)](https://github.com/pdh0927/github-readme-stats)
