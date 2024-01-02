@@ -1,6 +1,5 @@
-<div align="center">
 ![header](https://capsule-render.vercel.app/api?type=rounded&height=300&color=gradient&text=DH%20Github&textBg=false)
-</div>
+
 
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
