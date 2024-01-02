@@ -2,4 +2,4 @@
 
 
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=pdh0927&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=pdh980927@naver.com&show_icons=true)
